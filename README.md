@@ -1,71 +1,104 @@
 # Anaith-lal-
-# About the repository README file
+👋 Hi, I'm Anaith Lal
+QAQC Mechanical Engineer | Oil & Gas Industry | Sharjah, UAE
+Enthusiastic and ambitious engineer with a focus on quality assurance, materials inspection, and compliance in the Oil & Gas sector.
+�
+�
 
-You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.
+🔧 About Me
+🏭 Currently working as a QAQC Mechanical Engineer at Howco Oilfield Services, Sharjah, UAE
+🎯 Specialized in material inspection, NDT review, welding QA, and third-party coordination
+📋 Experienced in ISO 9001, API Q1/Q2, EN 10204, NACE MR0175 standards
+🌱 Continuously learning and growing in the Oil & Gas industry
+📍 Based in Sharjah, UAE
+🛠️ Technical Skills
+🔍 Inspection & Quality Assurance
+Load image
+�
+�
+�
+�
+�
+�
+�
+�
+Load image
+Load image
+Load image
+Load image
+Load image
+🔬 NDT & Welding
+�
+�
+�
+�
+�
+�
+�
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+📐 Standards & Compliance
+�
+�
+�
+�
+�
+�
+�
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+🤝 Third-Party Inspection
+�
+�
+�
+Load image
+Load image
+Load image
+💻 Software
+�
+�
+�
+�
+�
+Load image
+Load image
+Load image
+Load image
+Load image
+💼 Experience
+Howco Oilfield Services — QAQC Mechanical Engineer
+📍 Sharjah, UAE  |  📅 December 2024 – Present
+✅ Review & approve MTCs per EN 10204 Type 3.1 / 3.2 for oilfield equipment and components
+✅ Ensure compliance with API, ASME, ASTM, ISO, and NACE standards
+✅ Maintain full material traceability — heat numbers, batch numbers, and documentation
+✅ Verify & approve NDT reports (UT, RT, MT, PT) per approved procedures and codes
+✅ Issue Certificates of Conformity (CoC) and manage NCRs, deviations & concessions
+✅ Coordinate & witness inspections with Bureau Veritas, Applus+, and Apave
+✅ Perform QA for wellhead & Christmas tree equipment, tubing hangers, valves, manifolds, pressure vessels, subsea equipment & downhole tools
+✅ Apply metallurgical knowledge of carbon steel, alloy steel, stainless steel & CRA materials including Inconel 625, 718, 825, 925 and 9Cr grades
+✅ Implement ISO 9001 and API Q1/Q2 QMS and prepare MDR & shipping certification packages
+✅ Conduct coating & painting inspections and ensure NACE MR0175 / ISO 15156 sour service compliance
+📫 Let's Connect
+�
 
-## About READMEs
+�
+�
+Load image
+Load image
+�
 
-You can add a README file to a repository to communicate important information about your project. A README, along with a repository license, citation file, contribution guidelines, and a code of conduct, communicates expectations for your project and helps you manage contributions.
+�
 
-For more information about providing guidelines for your project, see [Adding a code of conduct to your project](/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project) and [Setting up your project for healthy contributions](/en/communities/setting-up-your-project-for-healthy-contributions).
-
-A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
-
-* What the project does
-* Why the project is useful
-* How users can get started with the project
-* Where users can get help with your project
-* Who maintains and contributes to the project
-
-If you put your README file in your repository's hidden `.github`, root, or `docs` directory, GitHub will recognize and automatically surface your README to repository visitors.
-
-If a repository contains more than one README file, then the file shown is chosen from locations in the following order: the `.github` directory, then the repository's root directory, and finally the `docs` directory.
-
-When your README is viewed on GitHub, any content beyond 500 KiB will be truncated.
-
-If you add a README file to the root of a public repository with the same name as your username, that README will automatically appear on your profile page. You can edit your profile README with GitHub Flavored Markdown to create a personalized section on your profile. For more information, see [Managing your profile README](/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-
-## Auto-generated table of contents for markdown files
-
-For the rendered view of any Markdown file in a repository, including README files, GitHub will automatically generate a table of contents based on section headings. You can view the table of contents for a README file by clicking the "Outline" menu icon <svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-list-unordered" aria-label="Table of Contents" role="img"><path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg> in the top corner of the rendered page.
-
-## Section links in markdown files and blob pages
-
-You can link directly to any section that has a heading. To view the automatically generated anchor in a rendered file, hover over the section heading to expose the <svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-link" aria-label="the link" role="img"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg> icon and click the icon to display the anchor in your browser.
-
-![Screenshot of a README for a repository. To the left of a section heading, a link icon is outlined in dark orange.](/assets/images/help/repository/readme-links.png)
-
-For more detailed information about section links, see [Section links](/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links).
-
-## Relative links and image paths in markdown files
-
-You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
-
-A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in *docs/CONTRIBUTING.md*, the relative link to *CONTRIBUTING.md* in your README might look like this:
-
-```text
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-```
-
-GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. The path of the link will be relative to the current file. Links starting with `/` will be relative to the repository root. You can use all relative link operands, such as `./` and `../`.
-
-Your link text should be on a single line. The example below will not work.
-
-```markdown
-[Contribution
-guidelines for this project](docs/CONTRIBUTING.md)
-```
-
-Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
-
-## Wikis
-
-A README should only contain information necessary for developers to get started using and contributing to your project. Longer documentation is best suited for wikis. For more information, see [About wikis](/en/communities/documenting-your-project-with-wikis/about-wikis).
-
-## Further reading
-
-* [Adding a file to a repository](/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
-* [5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/) in the GitHub blog
-* [Facilitating quick creation and resumption of codespaces](/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-repository/adding-a-codespaces-badge)
-* linkedin.com/in/anaith-lal-ba370b250
-* anaithlal@gmail.com 
+"Quality is never an accident; it is always the result of intelligent effort."
+linkedin.com/in/anaith-lal-ba370b250
+anaithlal@gmail.com 
